@@ -16,3 +16,5 @@
 <p align="center">
 <img src="https://github.com/sCent02/vince-webscrape-portfolio.githuhb.io/blob/main/asset/img/Data%20Engineering%20Cert.PNG" border="20"/>
 </p>
+> [!NOTE]  
+> Essential details that users should not overlook, even when browsing quickly.
