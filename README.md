@@ -20,4 +20,3 @@
 > [!NOTE]  
 > Essential details that users should not overlook, even when browsing quickly.
 
-public static String monthNames[] = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
