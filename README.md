@@ -13,3 +13,6 @@
 
 ## **Capstone Project:**
 ### Python for Data Engineering
+<p align="center">
+<img src="https://github.com/sCent02/vince-webscrape-portfolio.githuhb.io/blob/main/asset/img/Data%20Engineering%20Cert.PNG" border="20"/>
+</p>
