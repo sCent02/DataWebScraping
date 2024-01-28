@@ -12,6 +12,8 @@
 <br>
 
 ## **Capstone Project:**
++ In this capstone, we are able to collect data about hotels, restaurants and tourist sites for tourist.  The data will be used to provide information to tourists for them to create a better itinerary when they visit the Philippines.
+  
 ### Python for Data Engineering
 <p align="center">
 <img src="https://github.com/sCent02/vince-webscrape-portfolio.githuhb.io/blob/main/asset/img/Data%20Engineering%20Cert.PNG" border="20"/>
