@@ -3,9 +3,9 @@
 ## Project Description
 > Demonstrate how Web Scraping works by using BeautifulSoup Library and Selenium Webdriver in Python.
 <p align="center">
-<img src="asset/img/course-1212-bs.jpg" width="150" height="100 border="20"/>
-<img src="asset/img/Selenium.jpeg" width="150" height="100 border="20"/>
-<img src="asset/img/python-programming-language.png" width="100" height="100 border="20"/>
+<img src="asset/img/course-1212-bs.jpg" width="150" height="100" style="border: 20px;" />
+<img src="asset/img/Selenium.jpeg" width="150" height="100" style="border: 20px;" />
+<img src="asset/img/python-programming-language.png" width="100" height="100" style="border: 20px;" />
 </p>
 
 <br>
