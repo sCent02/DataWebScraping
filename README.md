@@ -4,13 +4,7 @@
 > Demonstrate how Web Scraping works by using BeautifulSoup Library and Selenium Webdriver in Python.
 <div class="image-container">
   <img src="asset/img/course-1212-bs.jpg" width="150" height="100" />
-</div>
-
-<div class="image-container">
   <img src="asset/img/Selenium.jpeg" width="150" height="100" />
-</div>
-
-<div class="image-container">
   <img src="asset/img/python-programming-language.png" width="100" height="100" />
 </div>
 
@@ -22,9 +16,9 @@
   
 ### Python for Data Engineering
 <div class="image-container">
+
 <img src="asset/img/Data%20Engineering%20Cert.PNG" />
 </div>
 
-> [!NOTE]  
-> Essential details that users should not overlook, even when browsing quickly.
+
 
