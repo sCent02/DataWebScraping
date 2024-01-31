@@ -22,7 +22,7 @@
   
 ### Python for Data Engineering
 <div class="image-container">
-<img src="https://github.com/sCent02/vince-webscrape-portfolio.githuhb.io/blob/main/asset/img/Data%20Engineering%20Cert.PNG" border="20"/>
+<img src="asset/img/Data%20Engineering%20Cert.png" border="20"/>
 </div>
 
 > [!NOTE]  
